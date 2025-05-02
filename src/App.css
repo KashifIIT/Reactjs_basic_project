@@ -1,0 +1,43 @@
+#Heading {
+  font-family: "Montserrat", sans-serif;
+}
+
+#Main {
+  border: 1.5px solid ;
+  display: block;
+  width: 70vw;
+  margin: auto;
+  padding: 3vw;
+  padding-top: 1vw;
+  margin-top: 3vw;
+  margin-bottom: 3vw;
+  background-color: white;
+  border-radius: 3vw;
+  box-shadow: 6px 8px 12px rgb(0, 0, 0, 0.8);
+}
+
+#Root {
+  margin-top: 0vw;
+}
+
+.Button {
+  padding: 0.5vw;
+  background-color: aquamarine;
+  /* color: white; */
+  border: 0.2vw solid black;
+  border-radius: 1vw;
+  cursor: pointer;
+}
+
+.Button:hover {
+  scale: 1.05;
+}
+
+.Input {
+  padding: 0.5vw;
+}
+
+.Input1a {
+  margin-bottom: 1vw;
+}
+
