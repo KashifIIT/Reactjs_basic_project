@@ -14,4 +14,5 @@ Website link - [Expense Tracker App](https://kashifiit.github.io/Reactjs_basic_p
 
 4. You can see there total expenses of each list and as well as total amount of expense on the top.
 
-I had also try my best to make this website responsive, but it looks better on laptop : )
+I had also try my best to make this website responsive, but it looks better on laptop 
+: )
