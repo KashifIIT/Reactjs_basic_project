@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KashifIIT/Reactjs_basic_project/static/css/main.84355cfc.css",
+    "main.js": "/KashifIIT/Reactjs_basic_project/static/js/main.b9ab914d.js",
+    "static/js/453.1b6cbde4.chunk.js": "/KashifIIT/Reactjs_basic_project/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/KashifIIT/Reactjs_basic_project/index.html",
+    "main.84355cfc.css.map": "/KashifIIT/Reactjs_basic_project/static/css/main.84355cfc.css.map",
+    "main.b9ab914d.js.map": "/KashifIIT/Reactjs_basic_project/static/js/main.b9ab914d.js.map",
+    "453.1b6cbde4.chunk.js.map": "/KashifIIT/Reactjs_basic_project/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84355cfc.css",
+    "static/js/main.b9ab914d.js"
+  ]
+}
