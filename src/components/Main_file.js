@@ -242,7 +242,7 @@ onClick = {() => {DeleteExpense(index+1)}}
           borderRadius: '10px',
           padding: '5px'
           }} 
-          onClick = {() => {DeleteList(1)}}
+          onClick = {() => {DeleteList(list.id)}}
           ><FaTrash/></button></div>
         )
 }) )
